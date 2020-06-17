@@ -1,0 +1,6 @@
+# file: ~/.gitignore_global
+.idea
+target
+bin
+*.iml
+venv
